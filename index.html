@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<!--
+	Astral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Oïclid's Home</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper-->
+			<div id="wrapper">
+
+				<!-- Nav -->
+					<nav id="nav">
+						<a href="#" class="icon solid fa-home"><span>Home</span></a>
+						<a href="#about" class="icon solid fa-user"><span>About me</span></a>
+						<a href="#contact" class="icon solid fa-envelope"><span>Contact</span></a>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Me -->
+							<article id="home" class="panel intro">
+								<header>
+									<h1>Nate Mamman</h1>
+									<p>Software Developer</p>
+								</header>
+								<a href="#about" class="jumplink pic">
+									<span class="arrow icon solid fa-chevron-right"><span>Who I Am</span></span>
+									<img src="images/me.jpg" alt="" />
+								</a>
+							</article>
+
+						<!-- Work -->
+							<article id="about" class="panel">
+								<header>
+									<h2>About Me</h2>
+								</header>
+								<p>
+									I am a Software Developer with extensive experience in developing Python, JavaScript, and WordPress
+                                    applications; providing Technical Support; and managing teams. I  have developed application using Django, Flask, and Node, as well as with various libraries including d3.js, React, Pandas, SciKits, and Matplotlib. 
+                                </p>
+                                <p>
+                                    I have over 15 years experience working for startups, studios, and consultancies including 42Labs, <a href="https://www.pmglobaltechnology.com/">PM Global Technology</a>, <a href="http://chduniport.org/">Center for Health and Development</a>, and <a href="cetracom.net">Cetra Computer Systems</a>. I have also worked on projects for <a href="https://yourbudgit.com">Budgit</a>, <a href="https://dash.ng">Dash</a>, <a href="http://nuc.edu.ng/">Nigerian Universities Commission</a>, <a href="http://asuu.com.ng/">Academic Staff Union of Universities</a>, <a href="https://www.foreverstoked.com/">Forever Stoked</a>, and a lot more.
+                                </p>
+								<p>
+                                    I don't do Social Media, but you can find me online on <a href="https://github.com/oiclid" class="icon solid fa-github-alt">GitHub</a> and <a href="https://medium.com/@oiclid"   class="icon solid fa-medium">Medium</a>. You can also email me at <a href="mailto:qed@oiclid.com">qed@oiclid.com</a>, or if you are really pat
+                                </p>
+							</article>
+
+						<!-- Contact -->
+							<article id="contact" class="panel">
+								<header>
+									<h2>Contact Me</h2>
+								</header>
+								<form action="#" method="post">
+									<div>
+										<div class="row">
+											<div class="col-6 col-12-medium">
+												<input type="text" name="name" placeholder="Name" />
+											</div>
+											<div class="col-6 col-12-medium">
+												<input type="text" name="email" placeholder="Email" />
+											</div>
+											<div class="col-12">
+												<input type="text" name="subject" placeholder="Subject" />
+											</div>
+											<div class="col-12">
+												<textarea name="message" placeholder="Message" rows="6"></textarea>
+											</div>
+											<div class="col-12">
+												<input type="submit" value="Send Message" />
+											</div>
+										</div>
+									</div>
+								</form>
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<div id="footer">
+						<ul class="copyleft">
+							<li>&#x1f12f; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
