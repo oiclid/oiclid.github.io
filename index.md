@@ -29,11 +29,13 @@ Stoked](https://www.foreverstoked.com/), and a lot more.
 I don't do Social Media, but you can find me online on
 [GitHub](https://github.com/oiclid) and
 [Medium](https://medium.com/@oiclid). You can also email me at
-[qed@oiclid.com](mailto:qed@oiclid.com), or if you are really pat
+[qed@oiclid.com](mailto:qed@oiclid.com). If you are really paranoid (I
+mean, who isn't), and want greater assurances that you are communicating
+with me, you can reach me on [Keybase](https://keybase.io/oiclid)
 
-Contact Me
-----------
+You can email me at [qed@oiclid.com](mailto:qed@oiclid.com). You can
+also find me on [Keybase](https://keybase.io/oiclid), where my public
+key is displayed.
 
--   🄯 Untitled.
--   Design: [HTML5 UP](http://html5up.net)
+-   🄯 Oïclid.
 
